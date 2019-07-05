@@ -1,0 +1,12 @@
+function Anagrama (roma){
+p=cadena.length;
+	
+for(let i=0; i<=4 i++)
+	if
+	cadena.legth==p
+	return true;
+	if else
+	return false;
+
+}
+console.log(Anagrama());
